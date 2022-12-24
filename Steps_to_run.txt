@@ -1,0 +1,10 @@
+Steps to Run the Project:
+
+(1) Create the Database in SSMS by the file given in database folder with 'SPF-database' name.
+
+(2) Right click on the app folder and click on open with 'Visual Studio'.
+
+(3) For connectivity to database, update the connection string in 'App.config' file.
+
+(4) Run the Project
+
